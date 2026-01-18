@@ -21,7 +21,7 @@ The dataset includes features such as:
 
 2. **Feature Engineering**  
    - Applied dimensionality reduction techniques like PCA, t-SNE, and UMAP.  
-   - Chose UMAP for best separation of clusters.
+   - Choose UMAP for best separation of clusters.
 
 3. **Clustering Models Used**  
    - K-Means Clustering  
